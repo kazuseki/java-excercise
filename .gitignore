@@ -1,0 +1,9 @@
+# .vscodeの設定はいらない
+.vscode/
+
+# exeファイルはいらない
+*.exe
+
+# classファイルはいらない
+*.class
+
